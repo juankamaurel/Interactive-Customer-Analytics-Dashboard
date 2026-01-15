@@ -17,12 +17,12 @@ This Looker Studio project demonstrates advanced business intelligence skills th
 
 <p float="left">
     <img src="Interactive Customer Analytics Dashboard/Screenshots/Page1_Product_Sales.png" width="300" />
-    <img src="Interactive Customer Analytics DashboardScreenshots/Page2_Customer_Analytics.png" width="300" />
-    <img src="Interactive Customer Analytics DashboardScreenshots/Page3_City_and_Sales_Insights" width="300" />
-    <img src="Interactive Customer Analytics DashboardScreenshots/Page4_Geographic_Insights.png" width="300" />
-    <img src="Interactive Customer Analytics DashboardScreenshots/City_and_Sales_Performance.png" width="300" />
-    <img src="Interactive Customer Analytics DashboardScreenshots/Page6_Regional_Revenue_Map.png" width="300" />
-    <img src="Interactive Customer Analytics DashboardScreenshots/Page7_Revenue_Fluctuations_Across_Countries.png" width="300" />
+    <img src="Interactive Customer Analytics Dashboard/Screenshots/Page2_Customer_Analytics.png" width="300" />
+    <img src="Interactive Customer Analytics Dashboard/Screenshots/Page3_City_and_Sales_Insights.png" width="300" />
+    <img src="Interactive Customer Analytics Dashboard/Screenshots/Page4_Geographic_Insights.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Interactive-Customer-Analytics-Dashboard/blob/8a3ef5e2979af004f997355e4b1ffaea0cd7a79b/Interactive%20Customer%20Analytics%20Dashboard/Screenshots/Page5_City_Sales_Performance.png" width="300" />
+    <img src="Interactive Customer Analytics Dashboard/Screenshots/Page6_Regional_Revenue_Map.png" width="300" />
+    <img src="Interactive Customer Analytics Dashboard/Screenshots/Page7_Revenue_Fluctuations_Across_Countries.png" width="300" />
 </p>
 
 ## 📊 Live Dashboard
