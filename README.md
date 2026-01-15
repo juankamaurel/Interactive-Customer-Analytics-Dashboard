@@ -18,7 +18,7 @@ This Looker Studio project demonstrates advanced business intelligence skills th
 <p float="left">
     <img src="Screenshots/Page1_Product_Sales.png" width="300" />
     <img src="Screenshots/Page2_Customer_Analytics.png" width="300" />
-    <img src="Screenshots/Page3_Geographic_Insights.png" width="300" />
+    <img src="Screenshots/Page3_City_" width="300" />
     <img src="Screenshots/Page4_Hierarchical_Analysis.png" width="300" />
     <img src="Screenshots/Interactive_Controls.png" width="300" />
 </p>
@@ -43,9 +43,11 @@ This Looker Studio project demonstrates advanced business intelligence skills th
 ├── 📂 Screenshots/
 │   ├── Page1_Product_Sales.png
 │   ├── Page2_Customer_Analytics.png
-│   ├── Page3_Geographic_Insights.png
-│   ├── Page4_Hierarchical_Analysis.png
-│   └── Interactive_Controls.png
+│   ├── Page3_City_Sales_Performance.png
+│   ├── Page4_Geographic_Insights.png
+│   ├── Page5_City_Sales_Performance
+│   ├── Page6_Regional_Revenue_Map.png
+│   └── Page7_Revenue_Fluctuations_Across_Countries.png
 │
 ├── 📜 README.md                         # This documentation
 └── 📜 Simple_Dashboard.pdf             # Dashboard documentation
