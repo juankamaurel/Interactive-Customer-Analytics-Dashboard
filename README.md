@@ -25,15 +25,15 @@ This Looker Studio project demonstrates advanced business intelligence skills th
 
 ## 📊 Live Dashboard
 
-[![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/YOUR_REPORT_ID) ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=google&logoColor=white)
-![Google Looker Studio Customer Analytics](https://github.com/yourusername/Looker-Studio-Lab/blob/main/Screenshots/Dashboard_Preview.gif)
+[![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/s/lz8wjFuj5Nw) ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=google&logoColor=white)
+![Google Looker Studio Customer Analytics]()
 
 
 
 ## 📁 Project Structure
 
 ```
-📂 Looker-Studio-Visualization-Lab/
+📂 Interactive-Customer-Analytics-Dashboard/
 │
 ├── 📂 Data/
 │   ├── CustomerLoyaltyProgram.csv    # Primary dataset (1,000+ records)
