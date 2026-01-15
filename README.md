@@ -28,7 +28,7 @@ This Looker Studio project demonstrates advanced business intelligence skills th
 ## 📊 Live Dashboard
 
 [![Looker Studio](https://img.shields.io/badge/📊_View_Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/s/lz8wjFuj5Nw) ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=google&logoColor=white)
-![Google Looker Studio Customer Analytics]()
+![Google Looker Studio Customer Analytics](https://github.com/Willie-Conway/Interactive-Customer-Analytics-Dashboard/blob/07c558b960396d7b94ae0116da3f2ae157f0cb84/Interactive%20Customer%20Analytics%20Dashboard/Screenshots/Simple%20Dashbord.gif)
 
 
 
