@@ -16,13 +16,13 @@
 This Looker Studio project demonstrates advanced business intelligence skills through comprehensive customer loyalty program analysis. As a Data Visualization Specialist, I created an interactive multi-page dashboard that transforms raw customer transaction data into actionable business insights using Google's Looker Studio platform.
 
 <p float="left">
-    <img src="Screenshots/Page1_Product_Sales.png" width="300" />
-    <img src="Screenshots/Page2_Customer_Analytics.png" width="300" />
-    <img src="Screenshots/Page3_City_and_Sales_Insights" width="300" />
-    <img src="Screenshots/Page4_Geographic_Insights.png" width="300" />
-    <img src="Screenshots/City_and_Sales_Performance.png" width="300" />
-    <img src="Screenshots/Page6_Regional_Revenue_Map.png" width="300" />
-    <img src="Screenshots/Page7_Revenue_Fluctuations_Across_Countries.png" width="300" />
+    <img src="Interactive Customer Analytics Dashboard/Screenshots/Page1_Product_Sales.png" width="300" />
+    <img src="Interactive Customer Analytics DashboardScreenshots/Page2_Customer_Analytics.png" width="300" />
+    <img src="Interactive Customer Analytics DashboardScreenshots/Page3_City_and_Sales_Insights" width="300" />
+    <img src="Interactive Customer Analytics DashboardScreenshots/Page4_Geographic_Insights.png" width="300" />
+    <img src="Interactive Customer Analytics DashboardScreenshots/City_and_Sales_Performance.png" width="300" />
+    <img src="Interactive Customer Analytics DashboardScreenshots/Page6_Regional_Revenue_Map.png" width="300" />
+    <img src="Interactive Customer Analytics DashboardScreenshots/Page7_Revenue_Fluctuations_Across_Countries.png" width="300" />
 </p>
 
 ## 📊 Live Dashboard
